@@ -1,1 +1,1 @@
-![Joel's github stats](https://github-readme-stats.vercel.app/api?username=joel-hanson&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=757575)
+<div style="text-align:center"><img src="https://lh3.googleusercontent.com/proxy/ZNIMBIvF2BNor_VeEXVKoGN9PUcyUD_cJ53BZRwRpDlemFRxFGZ43oy20I-IfGX0NHFqQvbsDrjB0UZFMBHBr-yvbVlbvlfNfOdOp8nLeZivQKnEuO7iJSws9J0fgGfOHw" /></div>
