@@ -1,6 +1,9 @@
 name: Waka Readme
 
 on:
+  push:
+    branches: 
+      - master
   schedule:
     # Runs at 20:30pm UTC & 2:00am IST
     - cron: '0 0 * * *'
