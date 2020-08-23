@@ -29,7 +29,7 @@
  > 
 > 📜 68 Public repositories
  > 
-> 🔑 0 Private repository 
+> 🔑 40 Private repository 
  > 
 **I'm an Early 🐤** 
 
@@ -60,7 +60,8 @@ Sunday       92 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    56 hrs 38 mins      █████████████████████████   100.0%
+python                   28 hrs 14 mins      █████████████████████████   100.0%
+javascript               32 hrs 38 mins      ███████████████░░░░░░░░░░   55.0%
 
 🔥 Code Editors: 
 Chrome                   56 hrs 14 mins      ████████████████████████░   99.28% 
@@ -81,12 +82,6 @@ Java                     5 repos             ██░░░░░░░░░�
 Jupyter Notebook         5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.62%
 
 ```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/Joel-hanson/Joel-hanson/blob/master/charts/bar_graph.png) 
-
 
 <!--END_SECTION:waka-->
 
