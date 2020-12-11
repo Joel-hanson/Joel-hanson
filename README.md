@@ -45,16 +45,14 @@ Skills: Python / JavaScript / Django / Data Science
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joel-hanson&show_icons=true&locale=en" alt="joel-hanson" /></p>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=joel-hanson)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joel-hanson&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joel-hanson&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/joel-hanson)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=joel-hanson)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=joel-hanson)  
+![GitHub metrics](https://metrics.lecoq.io/joel-hanson)  
 
 ![Profile views](https://gpvc.arturio.dev/joel-hanson)  
