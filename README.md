@@ -29,6 +29,11 @@ Skills: Python / JavaScript / Django / Data Science
 
 ### Blogs posts:
 <!-- BLOG-POST-LIST:START -->
+- [DRF: How to make a simple file upload API using viewsets.](https://medium.com/@Joelhanson25/drf-how-to-make-a-simple-file-upload-api-using-viewsets-1b1e65ed65ca?source=rss-906309768f3a------2)
+- [Intro to Deep Learning a broader family of machine learning.](https://medium.com/analytics-vidhya/intro-to-deep-learning-dc95bd892802?source=rss-906309768f3a------2)
+- [How to use PDB for Django inside a docker](https://medium.com/@Joelhanson25/how-to-use-pdb-for-django-inside-a-docker-12c424d880ec?source=rss-906309768f3a------2)
+- [Advanced serializer usage — Dynamically modifying fields](https://medium.com/@Joelhanson25/advanced-serializer-usage-dynamically-modifying-fields-e7c3bc28efa6?source=rss-906309768f3a------2)
+- [Deploy API application to Heroku.](https://medium.com/@Joelhanson25/deploy-api-application-to-heroku-2f7e6ce66655?source=rss-906309768f3a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
