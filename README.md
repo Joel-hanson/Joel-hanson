@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joel Hanson</h1>
 <h3 align="center">Software Engineer @impressai 👨🏻‍💻</h3>
 
-<p><img align="center" src="https://miro.medium.com/max/700/0*ONiAadfitbLoc8Yg.png" alt="joel-hanson" /></p>
+<p><img align="center" src="https://miro.medium.com/max/3000/0*ONiAadfitbLoc8Yg.png" alt="joel-hanson" /></p>
 
 Currently working on chatbots that help humans.
 
@@ -15,7 +15,7 @@ Skills: Python / JavaScript / Django / Data Science
 - ⚡ Fun fact: This read me made using the website [github-profile-readme-generator](https://arturssmirnovs.github.io/github-profile-readme-generator/) and [gh-github-readme-generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
 
-### Blogs posts
+### Blogs posts:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -43,15 +43,15 @@ Skills: Python / JavaScript / Django / Data Science
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=joel-hanson)](https://github.com/ryo-ma/github-profile-trophy)
+### Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joel-hanson&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joel-hanson&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=joel-hanson)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=joel-hanson)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub metrics](https://metrics.lecoq.io/joel-hanson)  
 
