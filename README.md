@@ -7,6 +7,9 @@ Currently working on chatbots that help humans.
 
 Skills: Python / JavaScript / Django / Data Science
 
+![GitHub metrics](https://metrics.lecoq.io/joel-hanson)  
+
+
 - 🔭 I’m currently working on **Chatbots**
 - 🌱 I’m currently learning **Data Science / Machine Learning**
 - 👯 I’m looking to collaborate on any project related to **python**
@@ -14,12 +17,21 @@ Skills: Python / JavaScript / Django / Data Science
 - 📫 How to reach me: **Email me**
 - ⚡ Fun fact: This read me made using the website [github-profile-readme-generator](https://arturssmirnovs.github.io/github-profile-readme-generator/) and [gh-github-readme-generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
+### Stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joel-hanson&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joel-hanson&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=joel-hanson)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=joel-hanson)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Blogs posts:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
 <a href="https://dev.to/joelhanson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="joelhanson" height="30" width="40" /></a>
 <a href="https://twitter.com/joelhanson25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="joelhanson25" height="30" width="40" /></a>
@@ -28,7 +40,7 @@ Skills: Python / JavaScript / Django / Data Science
 <a href="/https://medium.com/feed/@joelhanson25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://medium.com/feed/@joelhanson25" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -42,17 +54,5 @@ Skills: Python / JavaScript / Django / Data Science
   <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>   <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
-
-### Stats:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joel-hanson&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joel-hanson&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=joel-hanson)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=joel-hanson)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub metrics](https://metrics.lecoq.io/joel-hanson)  
 
 ![Profile views](https://gpvc.arturio.dev/joel-hanson)  
