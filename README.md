@@ -1,88 +1,57 @@
-![banner](https://images.unsplash.com/photo-1553851935-cad21b77d358?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&h=500&q=80)
+<h1 align="center">Hi 👋, I'm Joel Hanson</h1>
+<h3 align="center">Software Engineer @impressai 👨🏻‍💻</h3>
 
-# Hi There 👋🏼
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joel-hanson&label=Profile%20views&color=0e75b6&style=flat" alt="joel-hanson" /> </p>
 
-<em>Software Engieer @impressai</em>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joel-hanson" alt="joel-hanson" /></a> </p>
 
-<img align='right' src="https://raw.githubusercontent.com/Joel-hanson/Joel-hanson/master/e426702edf874b181aced1e2fa5c6cde.gif" width="300">
+<p align="left"> <a href="https://twitter.com/joelhanson25" target="blank"><img src="https://img.shields.io/twitter/follow/joelhanson25?logo=twitter&style=for-the-badge" alt="joelhanson25" /></a> </p>
 
-```I'm Joel Hanson, Born and raised in Kerala , India. I served in a couple of start-ups that provided me the skills to step on. Curretly working with chatbots, and creating things to make life less boring. In my free time, I make open source contributions and study new technologies.```
+![Software Engineer @impressai 👨🏻‍💻](https://miro.medium.com/max/700/0*ONiAadfitbLoc8Yg.png)
 
-<br></br>
-<br></br>
-<br></br>
-# 
+Currently working on chatbots that help humans.
 
+Skills: Python / JavaScript / Django / Data Science
 
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.2%20million%20Lines%20of%20code-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 2,657 Contributions in the year 2020
- > 
-> 📦 0 Bytes Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 68 Public repositories
- > 
-> 🔑 40 Private repository 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    131 commits    █████░░░░░░░░░░░░░░░░░░░░   20.53% 
-🌆 Daytime    248 commits    █████████░░░░░░░░░░░░░░░░   38.87% 
-🌃 Evening    207 commits    ████████░░░░░░░░░░░░░░░░░   32.45% 
-🌙 Night      52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.15%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       114 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.87% 
-Tuesday      181 commits    ███████░░░░░░░░░░░░░░░░░░   28.37% 
-Wednesday    101 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.83% 
-Thursday     54 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.46% 
-Friday       24 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.76% 
-Saturday     72 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.29% 
-Sunday       92 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.42%
-
-```
+- 🔭 I’m currently working on **Chatbots**
+- 🌱 I’m currently learning **Data Science / Machine Learning**
+- 👯 I’m looking to collaborate on any project related to **python**
+- 💬 Ask me about **myself**
+- 📫 How to reach me: **Email me**
+- ⚡ Fun fact: This read me made using the website [github-profile-readme-generator](https://arturssmirnovs.github.io/github-profile-readme-generator/) and [gh-github-readme-generator] (https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
 
-📊 **This Week I Spend My Time On** 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-```text
-⌚︎ Time zone: Asia/Kolkata
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/joelhanson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="joelhanson" height="30" width="40" /></a>
+<a href="https://twitter.com/joelhanson25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="joelhanson25" height="30" width="40" /></a>
+<a href="https://kaggle.com/joelhanson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="joelhanson" height="30" width="40" /></a>
+<a href="https://medium.com/@joelhanson25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@joelhanson25" height="30" width="40" /></a>
+<a href="/https://medium.com/feed/@joelhanson25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://medium.com/feed/@joelhanson25" height="30" width="40" /></a>
+</p>
 
-💬 Programming Languages: 
-python                   28 hrs 14 mins      ███████████████████░░░░░░   60.0%
-javascript               32 hrs 38 mins      ████████████░░░░░░░░░░░░░   40.0%
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-🔥 Code Editors: 
-Chrome                   56 hrs 14 mins      ████████████████████████░   99.28% 
-Zsh                      24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.72%
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joel-hanson&show_icons=true&locale=en&layout=compact" alt="joel-hanson" /></p>
 
-💻 Operating System: 
-Mac                      56 hrs 38 mins      █████████████████████████   100.0%
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joel-hanson&show_icons=true&locale=en" alt="joel-hanson" /></p>
 
-```
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joel-hanson&" alt="joel-hanson" /></p>
 
-**I Mostly Code in HTML** 
 
-```text
-HTML                     13 repos            ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-Python                   13 repos            ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-JavaScript               11 repos            █████░░░░░░░░░░░░░░░░░░░░   21.15% 
-Java                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.62% 
-Jupyter Notebook         5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.62%
+[![trophy](https://github-profile-trophy.vercel.app/?username=joel-hanson)](https://github.com/ryo-ma/github-profile-trophy)
 
-```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joel-hanson)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--END_SECTION:waka-->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joel-hanson&show_icons=true&count_private=true)  
 
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+![GitHub metrics](https://metrics.lecoq.io/joel-hanson)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=joel-hanson)  
+
+![Profile views](https://gpvc.arturio.dev/joel-hanson)  
