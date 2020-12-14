@@ -10,12 +10,12 @@ Skills: Python / JavaScript / Django / Data Science
 ![GitHub metrics](https://metrics.lecoq.io/joel-hanson)  
 
 
-- 🔭 I’m currently working on **Chatbots**
-- 🌱 I’m currently learning **Data Science / Machine Learning**
-- 👯 I’m looking to collaborate on any project related to **python**
-- 💬 Ask me about **myself**
-- 📫 How to reach me: **Email me**
-- ⚡ Fun fact: This read me made using the website [github-profile-readme-generator](https://arturssmirnovs.github.io/github-profile-readme-generator/) and [gh-github-readme-generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+- 🔭  I’m currently working on **Chatbots**
+- 🌱  I’m currently learning **Data Science / Machine Learning**
+- 👯  I’m looking to collaborate on any project related to **python**
+- 💬  Ask me about **myself**
+- 📫  How to reach me: **Email me**
+- ⚡  Fun fact: This read me made using the website [github-profile-readme-generator](https://arturssmirnovs.github.io/github-profile-readme-generator/) and [gh-github-readme-generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
 ### Stats:
 
