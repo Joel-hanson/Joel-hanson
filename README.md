@@ -61,3 +61,4 @@ Skills: Python / JavaScript / Django / Data Science
 </p>
 
 ![Profile views](https://gpvc.arturio.dev/joel-hanson)  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoel-hanson%2Fhit-counter&count_bg=%23ED3E2B&title_bg=%23373535&icon=&icon_color=%23F95353&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
