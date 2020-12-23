@@ -7,9 +7,6 @@ Currently working on chatbots that help humans.
 
 Skills: Python / JavaScript / Django / Data Science
 
-![GitHub metrics](https://metrics.lecoq.io/joel-hanson)  
-
-
 - 🔭  I’m currently working on **Chatbots**
 - 🌱  I’m currently learning **Data Science / Machine Learning**
 - 👯  I’m looking to collaborate on any project related to **python**
@@ -19,13 +16,11 @@ Skills: Python / JavaScript / Django / Data Science
 
 ### Stats:
 
+![GitHub metrics](https://metrics.lecoq.io/joel-hanson)  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joel-hanson&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joel-hanson&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=joel-hanson)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=joel-hanson)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Blogs posts:
 <!-- BLOG-POST-LIST:START -->
