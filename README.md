@@ -14,12 +14,6 @@ Skills: Python / JavaScript / Django / Data Science
 - ⚡  Fun fact: This read me made using the website [github-profile-readme-generator](https://arturssmirnovs.github.io/github-profile-readme-generator/) and [gh-github-readme-generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 - 😎 Checkout my github skyline https://skyline.github.com/joel-hanson/2020 
 
-### Stats:
-
-![GitHub metrics](https://metrics.lecoq.io/joel-hanson)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=joel-hanson)	
-
 ### Blogs posts:
 <!-- BLOG-POST-LIST:START -->
 - [DRF: How to make a simple file upload API using viewsets.](https://medium.com/@Joelhanson25/drf-how-to-make-a-simple-file-upload-api-using-viewsets-1b1e65ed65ca?source=rss-906309768f3a------2)
