@@ -3,13 +3,11 @@
 
 <p><img align="center" src="https://miro.medium.com/max/3000/0*ONiAadfitbLoc8Yg.png" alt="joel-hanson" /></p>
 
-Currently working on chatbots that help humans.
+Currently working on eventstreams/kafka.
 
 Skills: Python / JavaScript / Django / Data Science
 
-- 🔭  I’m currently working on **Chatbots**
-- 🌱  I’m currently learning **Data Science / Machine Learning**
-- 👯  I’m looking to collaborate on any project related to **python**
+- 👯  I’m looking to collaborate on any project related to **python**, **javascript**
 - 📫  How to reach me: **Email me**
 - ⚡  Fun fact: This read me made using the website [github-profile-readme-generator](https://arturssmirnovs.github.io/github-profile-readme-generator/) and [gh-github-readme-generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 - 😎 Checkout my github skyline https://skyline.github.com/joel-hanson/2020 
