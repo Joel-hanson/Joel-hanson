@@ -8,7 +8,7 @@ Currently working on eventstreams/kafka.
 Skills: Python / JavaScript / Django / Data Science
 
 - 👯  I’m looking to collaborate on any project related to **python**, **javascript**
-- 📫  How to reach me: **Email me**
+- 📫  Reach out to me via email
 - ⚡  Fun fact: This read me made using the website [github-profile-readme-generator](https://arturssmirnovs.github.io/github-profile-readme-generator/) and [gh-github-readme-generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 - 😎 Checkout my github skyline https://skyline.github.com/joel-hanson/2020 
 
