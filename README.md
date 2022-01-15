@@ -14,10 +14,11 @@ Skills: Python / JavaScript / Django / Data Science
 
 ### Blogs posts:
 <!-- BLOG-POST-LIST:START -->
-- [DRF: How to make a simple file upload API using viewsets.](https://medium.com/@Joelhanson25/drf-how-to-make-a-simple-file-upload-api-using-viewsets-1b1e65ed65ca?source=rss-906309768f3a------2)
+- [A faster way to find the nth Fibonacci number from it’s series](https://joel-hanson.medium.com/a-faster-way-to-find-the-nth-fibonacci-number-from-its-series-ca43516744a5?source=rss-906309768f3a------2)
+- [DRF: How to make a simple file upload API using viewsets.](https://joel-hanson.medium.com/drf-how-to-make-a-simple-file-upload-api-using-viewsets-1b1e65ed65ca?source=rss-906309768f3a------2)
 - [Intro to Deep Learning a broader family of machine learning.](https://medium.com/analytics-vidhya/intro-to-deep-learning-dc95bd892802?source=rss-906309768f3a------2)
-- [How to use PDB for Django inside a docker](https://medium.com/@Joelhanson25/how-to-use-pdb-for-django-inside-a-docker-12c424d880ec?source=rss-906309768f3a------2)
-- [Advanced serializer usage — Dynamically modifying fields](https://medium.com/@Joelhanson25/advanced-serializer-usage-dynamically-modifying-fields-e7c3bc28efa6?source=rss-906309768f3a------2)
+- [How to use PDB for Django inside a docker](https://joel-hanson.medium.com/how-to-use-pdb-for-django-inside-a-docker-12c424d880ec?source=rss-906309768f3a------2)
+- [Advanced serializer usage — Dynamically modifying fields](https://joel-hanson.medium.com/advanced-serializer-usage-dynamically-modifying-fields-e7c3bc28efa6?source=rss-906309768f3a------2)
 <!-- BLOG-POST-LIST:END -->
 <!-- 
 ### Connect with me:
