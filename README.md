@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joel Hanson</h1>
-<h3 align="center">Software Engineer @impressai 👨🏻‍💻</h3>
+<h3 align="center">Software Engineer @IBM 👨🏻‍💻</h3>
 
 <p><img align="center" src="https://miro.medium.com/max/3000/0*ONiAadfitbLoc8Yg.png" alt="joel-hanson" /></p>
 
