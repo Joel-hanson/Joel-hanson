@@ -27,12 +27,8 @@ Hey there! I’m Joel Hanson, a Software Engineer at IBM, currently immersed in 
 
 ## 📰 Latest Blog Posts
 
-* **[Building an MCP Server for Your Kafka Cluster](https://joel-hanson.github.io/posts/16-breaking-kafka-walls-building-an-mcp-server-for-your-kafka-cluster/)** (June 7, 2025) – Expose Kafka operations as LLM‑accessible tools with FastMCP and the MCP protocol.
-* **[How I Automated My Markdown Publishing on Medium (No More Manual Work!)](https://joel-hanson.github.io/posts/15-how-i-automated-my-markdown-publishing-on-medium-no-more-manual-work/)** (April 26, 2025) – Convert Hugo‑friendly Markdown into perfectly formatted Medium posts using an open‑source tool.
-* **[Creating Tombstone Records Using kafka-console-producer.sh: A Quick Guide](https://joel-hanson.github.io/posts/14-creating-tombstone-records-using-kafka-console-producer-sh-a-quick-guide/)** (April 22, 2025) – Generate tombstone records for compacted Kafka topics via the console producer’s null‑marker feature.
-* **[Build Custom Kafka Connectors Fast with This Open‑Source Template](https://joel-hanson.github.io/posts/13-build-custom-kafka-connectors-fast-with-this-open-source-template/)** (April 14, 2025) – Kickstart connector development with a production‑ready Kafka Connect template.
-* **[Filtering Tombstone Records in Kafka Connect](https://joel-hanson.github.io/posts/12-filtering-tombstone-records-in-kafka-connect/)** (March 11, 2025) – Use SMTs and the RecordIsTombstone predicate to drop null records in your pipelines.
-
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 ---
 
 Feel free to open issues or PRs on any of my projects — I love collaborating on open-source!
