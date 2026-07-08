@@ -4,7 +4,7 @@ Senior Software Engineer | DevOps & Cloud Infrastructure | AI/ML Enthusiast
 
 [Portfolio](https://joel-hanson.github.io) • [GitHub](https://github.com/Joel-hanson) • [LinkedIn](https://www.linkedin.com/in/joel-hanson)
 
----
+----
 
 ## 👋 Hey there
 
