@@ -1,32 +1,47 @@
+```
+     ██╗ ██████╗ ███████╗██╗         ██╗  ██╗ █████╗ ███╗   ██╗███████╗ ██████╗ ███╗   ██╗
+     ██║██╔═══██╗██╔════╝██║         ██║  ██║██╔══██╗████╗  ██║██╔════╝██╔═══██╗████╗  ██║
+     ██║██║   ██║█████╗  ██║         ███████║███████║██╔██╗ ██║███████╗██║   ██║██╔██╗ ██║
+██   ██║██║   ██║██╔══╝  ██║         ██╔══██║██╔══██║██║╚██╗██║╚════██║██║   ██║██║╚██╗██║
+╚█████╔╝╚██████╔╝███████╗███████╗    ██║  ██║██║  ██║██║ ╚████║███████║╚██████╔╝██║ ╚████║
+ ╚════╝  ╚═════╝ ╚══════╝╚══════╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝
+```
+
 # Joel Hanson
 
-Senior Software Engineer | DevOps & Cloud Infrastructure | AI/ML Enthusiast
+```console
+visitor@joel-hanson:~$ whoami
+Software Engineer @ IBM
+Building event-driven systems, streaming platforms, and distributed tooling.
 
-[Portfolio](https://joel-hanson.github.io) • [GitHub](https://github.com/Joel-hanson) • [LinkedIn](https://www.linkedin.com/in/joel-hanson)
+visitor@joel-hanson:~$ cat about.md
+I’m Joel Hanson, a software engineer working across event streams,
+cloud infrastructure, and practical AI/ML systems.
 
-----
+My work spans Kafka, Kafka Connect, Kubernetes, Python,
+Java, and platform-focused developer tooling.
 
-## 👋 Hey there
+visitor@joel-hanson:~$ ls pinned/
+advanced-serializer-usage
+markdown2medium
+contextlayer
+joel-hanson.github.io
+sse-kafka-connector
+bijou64
 
-Hey there! I’m Joel Hanson, a Software Engineer at IBM, currently immersed in leveraging event streams for smarter data-driven insights. Previously an AI Engineer at Impress.ai, I’m passionate about making AI more user-friendly for everyone—transitioning from batch to real-time machine learning and evolving architectures from request-driven to event-driven.
+visitor@joel-hanson:~$ head -n2 pinned/bijou64/README.md
+Bijou64 - Efficient Variable-Length Integer Encoding for Kafka
+Written in Java.
 
-* 🔭 Currently writing a [blog on building an MCP server for Kafka]([https://joel-hanson.github.io/](https://joel-hanson.github.io/posts/16-breaking-kafka-walls-building-an-mcp-server-for-your-kafka-cluster/) and exploring event-driven data platforms.
-* 🌱 Continuously learning about distributed systems, Kubernetes operators, and emerging AI frameworks.
-* 💬 Ask me about Kafka, Kubernetes, Terraform, or Python best practices.
+visitor@joel-hanson:~$ head -n2 pinned/sse-kafka-connector/README.md
+A fully generic Kafka Connect source connector
+for Server-Sent Events (SSE) streams.
 
----
+visitor@joel-hanson:~$ ./skills --focus
+Kafka · Kafka Connect · Kubernetes · Python · Java · Distributed Systems
 
-## 🛠️ Skills & Technologies
-
-| Cloud & DevOps                  | Languages                  | Data & Streaming                   | Tools & Platforms                            |
-|---------------------------------|----------------------------|------------------------------------|----------------------------------------------|
-| AWS · GCP · IBM Cloud           | Python · Java · JavaScript | Kafka · PostgreSQL · Redis · Flink | Kubernetes · Docker  · Openshift             |
-| CI/CD (Jenkins, GitHub Actions) | Shell · SQL · Go           | Pandas · NumPy · MLflow            | Kafka Connect · FastAPI · AWS Cloudformation |
-
----
-
-## 📰 Latest Blog Posts
-
+visitor@joel-hanson:~$ tail -f writing.log
+```
 <!-- BLOG-POST-LIST:START -->
 - [What If Your Kafka Sent Half the Data Over the Network?](https://joel-hanson.medium.com/what-if-your-kafka-sent-half-the-data-over-the-network-f97d1030e7f8?source=rss-906309768f3a------2)
 - [Aesthetic Habit Tracker: A Challenge Grid That Lives in Your Browser](https://joel-hanson.medium.com/aesthetic-habit-tracker-a-challenge-grid-that-lives-in-your-browser-49fb6301a512?source=rss-906309768f3a------2)
@@ -34,6 +49,14 @@ Hey there! I’m Joel Hanson, a Software Engineer at IBM, currently immersed in 
 - [From Celery to Restate: Rethinking Async Tasks in Django](https://joel-hanson.medium.com/from-celery-to-restate-rethinking-async-tasks-in-django-d2c229a37258?source=rss-906309768f3a------2)
 - [Adding Durable Execution to Flask Applications with Restate](https://joel-hanson.medium.com/adding-durable-execution-to-flask-applications-with-restate-562b105c0a21?source=rss-906309768f3a------2)
 <!-- BLOG-POST-LIST:END -->
----
-
-Feel free to open issues or PRs on any of my projects — I love collaborating on open-source!
+```console
+visitor@joel-hanson:~$ cat contact.txt
+```
+- Portfolio → https://joel-hanson.github.io
+- GitHub → https://github.com/Joel-hanson
+- LinkedIn → https://www.linkedin.com/in/joel-hanson
+```console
+visitor@joel-hanson:~$ echo "open to collaborating on Kafka, Kubernetes, and distributed systems"
+open to collaborating on Kafka, Kubernetes, and distributed systems
+visitor@joel-hanson:~$ █
+```
