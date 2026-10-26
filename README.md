@@ -50,7 +50,7 @@ visitor@joel-hanson:~$ tail -f writing.log
 ```console
 visitor@joel-hanson:~$ cat contact.txt
 ```
-[`Portfolio`](https://joel-hanson.github.io) <br>
+[`Portfolio`](https://joelhanson.com) <br>
 [`GitHub`](https://github.com/Joel-hanson) <br>
 [`LinkedIn`](https://www.linkedin.com/in/joel-hanson) <br>
 ```console
