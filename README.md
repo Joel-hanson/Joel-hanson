@@ -7,8 +7,6 @@
  ╚════╝  ╚═════╝ ╚══════╝╚══════╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝
 ```
 
-# Joel Hanson
-
 ```console
 visitor@joel-hanson:~$ whoami
 Software Engineer @ IBM
